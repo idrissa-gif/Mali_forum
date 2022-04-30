@@ -8,9 +8,9 @@
 </head>
 <body>
     <header>
-        <title>
+        <p>
             Bienvenue Au Maliba Forum
-        </title>        
+        </p>        
     </header>
     <p> the world is just so you have to gc_collect_cycles gc_collect_cycles ob_clean </p>
 </body>
