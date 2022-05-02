@@ -11,8 +11,6 @@
     <video src= "video/pexels.mp4" controls preload = "auto" loop poster = "video/monkey.jpeg" >
         There must be some kind of problem loading this vid, are you using updated browser!
         <source src= "video/pexels.mp4" type="video/mp4">
-    </video>
-    
-
+  </video>
 </body>
 </html>
