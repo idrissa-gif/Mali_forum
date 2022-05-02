@@ -10,3 +10,8 @@ body
 strong{
     font-weight: normal;
 } */
+
+video{
+    max-width: 100%;
+    height: auto;
+}
